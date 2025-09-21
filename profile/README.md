@@ -1,4 +1,4 @@
-# 🚀 UWB Robotics – Rover Project
+# 🚀 UWB Robotics - Rover Project
 
 Welcome to **UWB Robotics**!  
 We are a mobile robotics student team at the **University of West Bohemia, Pilsen**, dedicated to designing, building, and testing rover systems.
